@@ -1,0 +1,5 @@
+1.Ubacili smo marginu na vrhu headera
+2.Stavili smo bocne margine na artiklima
+3. Odvojili smo medjusobno slike u TEAM delu sa posebnim wraperom .Dodatni DIV sa Wrapperom TRIK
+4 sredi gresku u team !!!!! articli( Nema greske,sve se ispeglalo-razlika u rezoluciji mog ekrana)
+5 Responsiv sa malo vise razlicitih rezolucija
